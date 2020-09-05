@@ -7,7 +7,7 @@ This airport is free to use. If you use this airport in a stream or other creati
 
 Current version: v0.9.2. Image previews of 0.9.1 here: https://imgur.com/a/4ma684Y
 
-Download link: https://github.com/guifarias31/airport-sbpf-passo-fundo/releases/download/0.9.1/airport-sbpf-passo-fundo.rar
+Download link: https://github.com/guifarias31/airport-sbpf-passo-fundo/releases/download/0.9.2/airport-sbpf-passo-fundo.rar
 
 INSTALLATION INSTRUCTIONS
 
