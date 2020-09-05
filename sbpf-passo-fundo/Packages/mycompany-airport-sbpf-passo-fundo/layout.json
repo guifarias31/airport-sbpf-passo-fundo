@@ -6,14 +6,19 @@
       "date": 132437378388677369
     },
     {
+      "path": "manifest.json",
+      "size": 272,
+      "date": 132437392530431566
+    },
+    {
       "path": "scenery/airport-sbpf-passo-fundo.bgl",
-      "size": 10247,
-      "date": 132437378635140401
+      "size": 11671,
+      "date": 132437584193326570
     },
     {
       "path": "scenery/AIRPORT-SBPF-POLY.BGL",
-      "size": 9871,
-      "date": 132437378635720497
+      "size": 9847,
+      "date": 132437584193911678
     }
   ]
 }
