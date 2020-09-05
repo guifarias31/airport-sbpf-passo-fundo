@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mycompany-airport-sbpf-passo-fundo/Thumbnail.jpg",
+      "size": 34905,
+      "date": 132437378388677369
+    },
+    {
+      "path": "scenery/airport-sbpf-passo-fundo.bgl",
+      "size": 10247,
+      "date": 132437378635140401
+    },
+    {
+      "path": "scenery/AIRPORT-SBPF-POLY.BGL",
+      "size": 9871,
+      "date": 132437378635720497
+    }
+  ]
+}
