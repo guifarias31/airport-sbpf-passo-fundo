@@ -1,9 +1,9 @@
 SBPF and SSAQ - Lauro Kurtz Airport for MSFS
 
 Converted by: GuiFarias31
-3D Objects by: HiSimulation
+3D Objects by: [HiSimulation](https://www.hisimulation.com.br/)
 
-This airport is free to use. If you use this airport in a stream or other creative media, all I ask is to receive credit for the airport.
+This airport is free to use.
 
 Current version: v0.9.3. Image previews of 0.9.3 here: https://imgur.com/a/5XN2I4Z
 
