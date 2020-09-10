@@ -1,0 +1,168 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "ModelConverterX"
+  },
+  "extensionsUsed": [],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "node0",
+      "children": [
+        1
+      ]
+    },
+    {
+      "name": "node1",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "mode": 4,
+          "material": 0
+        }
+      ],
+      "name": "part000"
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 1,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 715,
+      "type": "VEC3",
+      "min": [
+        -263.83899,
+        0.0,
+        -117.9159
+      ],
+      "max": [
+        366.10461,
+        11.11,
+        572.46613
+      ]
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 715,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 0,
+      "componentType": 5126,
+      "count": 715,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 0,
+      "componentType": 5125,
+      "count": 1203,
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "roughnessFactor": 0.0,
+        "metallicFactor": 0.0,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "emissiveFactor": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "emissiveTexture": {
+        "index": 1
+      },
+      "normalTexture": {
+        "index": 2
+      },
+      "normalTextureInfo": {
+        "scale": 1.0
+      }
+    }
+  ],
+  "textures": [
+    {
+      "source": 0,
+      "name": "parque"
+    },
+    {
+      "source": 1,
+      "name": "parque_lm"
+    },
+    {
+      "source": 2,
+      "name": "parque_bump"
+    }
+  ],
+  "images": [
+    {
+      "uri": "parque.dds"
+    },
+    {
+      "uri": "parque_lm.dds"
+    },
+    {
+      "uri": "parque_bump.dds"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 4812
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 4812,
+      "byteLength": 8580
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 13392,
+      "byteLength": 8580
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21972,
+      "byteLength": 5720
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 27692,
+      "uri": "Parque.bin"
+    }
+  ]
+}
