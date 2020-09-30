@@ -90,25 +90,22 @@
           1.0,
           1.0
         ],
-        "roughnessFactor": 0.0,
+        "roughnessFactor": 1.0,
         "metallicFactor": 0.0,
         "baseColorTexture": {
           "index": 0
         }
       },
       "emissiveFactor": [
-        0.0,
-        0.0,
-        0.0
+        1.0,
+        1.0,
+        1.0
       ],
       "emissiveTexture": {
         "index": 1
       },
       "normalTexture": {
         "index": 2
-      },
-      "normalTextureInfo": {
-        "scale": 1.0
       }
     }
   ],
