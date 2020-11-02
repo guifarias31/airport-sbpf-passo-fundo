@@ -1,5 +1,7 @@
 <Timestamps>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpf-passo-fundo\Packages\mycompany-airport-sbpf-passo-fundo\scenery\airport-sbpf-passo-fundo.bgl" Timestamp="13245898753" NbSourceFile="1"/>
-	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpf-passo-fundo\Packages\mycompany-airport-sbpf-passo-fundo\scenery\airport-sbpf-poly.bgl" Timestamp="13243822299" NbSourceFile="4"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpf-passo-fundo\Packages\mycompany-airport-sbpf-passo-fundo\scenery\airport-sbpf-passo-fundo.bgl" Timestamp="13245898753" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpf-passo-fundo\Packages\mycompany-airport-sbpf-passo-fundo\scenery\global\scenery\airport-sbpf-poly.bgl" Timestamp="13248762012" NbSourceFile="4"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpf-passo-fundo\Packages\mycompany-airport-sbpf-passo-fundo\scenery\airport-sbpf-poly.bgl" Timestamp="13243822299" NbSourceFile="-1"/>
+	<Entry Path="C:\Users\Guilherme\Documents\MyFSProjects\sbpf-passo-fundo\Packages\mycompany-airport-sbpf-passo-fundo\scenery\global\scenery\airport-sbpf-passo-fundo.bgl" Timestamp="13248762276" NbSourceFile="1"/>
 </Timestamps>
 
